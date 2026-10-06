@@ -43,9 +43,6 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [x] Listas
 - [x] Tuplas
 - [x] Sets
-- [ ] Variáveis e tipos de dados
-- [ ] Operadores
-- [ ] Strings
 - [ ] Condicionais (`if`, `elif`, `else`)
 - [ ] Laços (`for`, `while`)
 - [ ] Dicionários
