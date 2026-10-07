@@ -108,15 +108,6 @@ python3 list_tuples_sets/sets.py
 
 ---
 
-## Status
-
-| Tema | Status |
-|------|--------|
-| Listas, tuplas e sets | Concluído |
-| Próximos temas | Em andamento |
-
----
-
 ## Autor
 
 **Samuel**
