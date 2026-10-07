@@ -60,13 +60,6 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [ ] Testes (`unittest`, `pytest`)
 - [ ] Type hints
 
-### Ferramentas
-- [ ] Git e GitHub
-- [ ] `pip` e gerenciamento de dependências
-- [ ] PyCharm / VS Code
-- [ ] Linters e formatadores (`ruff`, `black`)
-- [ ] Debug
-
 ### Bibliotecas (dados e matemática)
 - [ ] **NumPy:** arrays e cálculo numérico
 - [ ] **Pandas:** análise e manipulação de dados
