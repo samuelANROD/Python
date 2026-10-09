@@ -1,3 +1,5 @@
+#coordenadas graficas distancia entre pontos 
+#exemplo com 3 coordenadas
 import math
 xy = []
 
