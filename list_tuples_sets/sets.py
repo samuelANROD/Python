@@ -20,3 +20,16 @@ print(set.intersection(set_2))
 print(set.difference(set_2))
 #unir
 print(set.union(set_2))
+
+pequeno = {1, 2}
+grande = {1, 2, 3, 4}
+outro = {8, 9}
+
+print(pequeno.issubset(grande))      # True: 1 e 2 estão em grande
+print(grande.issubset(pequeno))      # False: 3 e 4 não estão em pequeno
+
+print(grande.issuperset(pequeno))    # True: grande contém 1 e 2
+print(pequeno.issuperset(grande))    # False
+
+print(pequeno.isdisjoint(outro))     # True: nada em comum
+print(pequeno.isdisjoint(grande))    # False: 1 e 2 são comuns
