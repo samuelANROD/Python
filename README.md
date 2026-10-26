@@ -46,10 +46,9 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [x] Condicionais (`if`, `elif`, `else`)
 - [x] Laços (`for`, `while`)
 - [x] Dicionários
-- [ ] Funções
+- [x] Funções
 - [ ] Compreensões de lista (list comprehension)
-- [ ] Tratamento de erros (`try`, `except`)
-- [ ] Manipulação de arquivos
+- [X] Tratamento de erros (`try`, `except`)
 
 ### Intermediário
 - [ ] Módulos e pacotes
