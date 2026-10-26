@@ -47,7 +47,7 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [x] Laços (`for`, `while`)
 - [x] Dicionários
 - [x] Funções
-- [ ] Compreensões de lista (list comprehension)
+- [x] Compreensões de lista (list comprehension)
 - [X] Tratamento de erros (`try`, `except`)
 
 ### Intermediário
