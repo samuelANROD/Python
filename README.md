@@ -51,7 +51,7 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [X] Tratamento de erros (`try`, `except`)
 
 ### Intermediário
-- [ ] Módulos e pacotes
+- [x] Módulos e pacotes
 - [ ] Programação Orientada a Objetos (POO)
 - [ ] Decorators e geradores
 - [ ] Expressões regulares (regex)
@@ -66,7 +66,7 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [ ] **SciPy:** computação científica, otimização e integração
 - [ ] **SymPy:** matemática simbólica (álgebra, derivadas, integrais)
 - [ ] **Statsmodels:** estatística e modelos estatísticos
-- [ ] **Módulos nativos:** `math`, `statistics`, `random`, `fractions`, `decimal`
+- [x] **Módulos nativos:** `math`, `statistics`, `random`, `fractions`, `decimal`
 
 ### Projetos
 - [ ] Projetos pequenos para praticar
