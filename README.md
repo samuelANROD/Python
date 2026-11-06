@@ -69,8 +69,6 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [x] **Módulos nativos:** `math`, `statistics`, `random`, `fractions`, `decimal`
 
 ### Projetos
-- [ ] Projetos pequenos para praticar
-- [ ] Análises de dados com Pandas e gráficos com Matplotlib
 - [ ] Projeto final de portfólio
 
 ---
