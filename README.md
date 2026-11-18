@@ -52,7 +52,7 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 
 ### Intermediário
 - [x] Módulos e pacotes
-- [ ] Programação Orientada a Objetos (POO)
+- [x] Programação Orientada a Objetos (POO)
 - [ ] Decorators e geradores
 - [ ] Expressões regulares (regex)
 - [ ] Ambientes virtuais (`venv`)
@@ -60,16 +60,16 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.py`.
 - [ ] Type hints
 
 ### Bibliotecas (dados e matemática)
-- [ ] **NumPy:** arrays e cálculo numérico
-- [ ] **Pandas:** análise e manipulação de dados
-- [ ] **Matplotlib:** gráficos e visualização
-- [ ] **SciPy:** computação científica, otimização e integração
-- [ ] **SymPy:** matemática simbólica (álgebra, derivadas, integrais)
+- [x] **NumPy:** arrays e cálculo numérico
+- [x] **Pandas:** análise e manipulação de dados
+- [x] **Matplotlib:** gráficos e visualização
+- [x] **SciPy:** computação científica, otimização e integração
+- [x] **SymPy:** matemática simbólica (álgebra, derivadas, integrais)
 - [ ] **Statsmodels:** estatística e modelos estatísticos
 - [x] **Módulos nativos:** `math`, `statistics`, `random`, `fractions`, `decimal`
 
 ### Projetos
-- [ ] Projeto final de portfólio
+- [x] Projeto final de portfólio
 
 ---
 
