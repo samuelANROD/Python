@@ -38,7 +38,7 @@ account.withdraw(200)
 print(account.owner)
 print(account.show_balance())
 
-#caso com property 
+#caso com property
 
 class BankAccount:
     def __init__(self, owner, balance):
